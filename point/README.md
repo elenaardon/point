@@ -4,9 +4,9 @@ Sitio web de **Point**, una app de pádel gratuita para jugadores que reúne par
 
 El sitio está desarrollado en **PHP** con base de datos **MySQL**, y se ejecuta en un servidor local con **XAMPP**.
 
-- **Autor:** [Tu nombre]
-- **Materia / Institución:** [Nombre de la materia] · [Institución]
-- **Repositorio:** [link de este repositorio]
+- **Autor:** Elena Paulette Ardon
+- **Materia / Institución:** Contenidos y Creatividad II
+- **Repositorio:** github.com/elenaardon/point
 
 ---
 
@@ -192,7 +192,7 @@ erDiagram
 |---|---|
 | **Inicio** | ![Inicio](capturas/01-inicio.png) |
 | **La app** | ![La app](capturas/02-la-app.png) |
-| **Live Match** | ![Live Match](capturas/03-livematch.png) |
+| **Live Match** | ![Live Match](capturas/03-live-match.png) |
 | **Play** | ![Play](capturas/04-play.png) |
 | **Mi raqueta** | ![Mi raqueta](capturas/05-mi-raqueta.png) |
 | **Perfil** | ![Perfil](capturas/06-perfil.png) |
